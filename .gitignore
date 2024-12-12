@@ -1,0 +1,7 @@
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 但不忽略示例文件
+!.env.example
